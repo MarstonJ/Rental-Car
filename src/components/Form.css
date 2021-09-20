@@ -1,0 +1,32 @@
+img {
+    height: 300px;
+    width: auto;
+}
+
+div.container{
+    width: 100%;
+    overflow: hidden;
+}
+
+.cars {
+    padding: 20px;
+    float: left;
+    border: 1px solid;
+    width: 30%;
+    margin: .5%;
+    background-color: grey;
+}
+
+label {
+    font-size: 30px;
+}
+
+input {
+    margin-bottom: 20px;
+}
+
+#submitBtn {
+    height: 50px;
+    width: 150px;
+    font-size: 20px;
+}
