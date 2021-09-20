@@ -1,0 +1,22 @@
+table {
+    width: auto;
+    margin: 2%;
+    font-size: 20px;
+    text-align: left;
+    justify-content: center;
+}
+
+td {
+    width: 200px;
+}
+
+.data {
+    text-align: center;
+}
+
+h1 {
+    margin-left: 2%;
+    text-decoration: underline black;
+}
+
+
