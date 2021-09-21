@@ -22,7 +22,6 @@ class Confirm extends React.Component {
             car: params.get("car")
         };
         
-        console.log(data.car)
         let car;
         
 
